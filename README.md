@@ -2,6 +2,25 @@
 
 > **Public Portfolio Documentation | Private Implementation**
 
+## Table of Contents
+- [Overview](#overview)
+- [Problem Space](#problem-space)
+- [Design Goals](#design-goals)
+- [System Overview (High-Level)](#system-overview-high-level)
+- [Key Capabilities](#key-capabilities)
+  - [Academic Instruction](#academic-instruction)
+  - [Adaptive Learning Logic](#adaptive-learning-logic)
+  - [Accessibility & Neurodiversity Support](#accessibility--neurodiversity-support)
+  - [Educational Speech & Articulation Support](#educational-speech--articulation-support)
+- [Safety & Ethical Considerations](#safety--ethical-considerations)
+- [Technology Stack (Non-Exhaustive)](#technology-stack-non-exhaustive)
+- [Project Status](#project-status)
+- [Code Access](#code-access)
+- [Disclaimer](#disclaimer)
+- [Why This Repository Exists](#why-this-repository-exists)
+
+---
+
 ## Overview
 TutrMe.io™ is an AI-powered educational system designed to support personalized, grade-aware K–12 learning for homeschooling and independent learners. The project explores how large language models can be responsibly orchestrated to deliver structured instruction, adaptive pacing, and accessibility-first educational experiences.
 
