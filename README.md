@@ -19,6 +19,7 @@
 - [Disclaimer](#disclaimer)
 - [Why This Repository Exists](#why-this-repository-exists)
 
+---
 
 ## Overview
 TutrMe.io™ is an AI-powered educational system designed to support personalized, grade-aware K–12 learning for homeschooling and independent learners. The project explores how large language models can be responsibly orchestrated to deliver structured instruction, adaptive pacing, and accessibility-first educational experiences.
